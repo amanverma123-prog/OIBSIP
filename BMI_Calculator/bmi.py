@@ -22,6 +22,6 @@ try:
             print("You are Overweight!")
         else:
             print("You are Obese!")
+
 except ValueError:
     print("Invalid input! Please enter numbers only.")
-
