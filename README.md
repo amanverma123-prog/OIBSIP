@@ -8,11 +8,10 @@ Python Development Internship Projects | Oasis Infobyte | AICTE OIB-SIP
 - **Program:** AICTE OIB-SIP April Cohort 2026
 
 ## 📁 Projects
-
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
 | 1 | BMI Calculator | Calculates BMI and classifies health category | ✅ Completed |
-| 2 | Password Generator | Generates secure random passwords | 🔄 In Progress |
+| 2 | Password Generator | Generates secure random passwords | ✅ Completed |
 | 3 | Voice Assistant | AI based voice assistant in Python | ⬜ Upcoming |
 
 ## 🛠️ Tech Stack
