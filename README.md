@@ -12,11 +12,13 @@ Python Development Internship Projects | Oasis Infobyte | AICTE OIB-SIP
 |---|---------|-------------|--------|
 | 1 | BMI Calculator | Calculates BMI and classifies health category | ✅ Completed |
 | 2 | Password Generator | Generates secure random passwords | ✅ Completed |
-| 3 | Voice Assistant | AI based voice assistant in Python | ⬜ Upcoming |
+| 3 | Voice Assistant | AI based voice assistant in Python | ✅ Completed |
 
 ## 🛠️ Tech Stack
 - Python 3
 - Tkinter (GUI)
+- SpeechRecognition
+- pyttsx3
 - VS Code
 
 ## 🔗 Connect
